@@ -23,9 +23,9 @@
 
   <distributionManagement>
       <repository>
-         <id>snapshot</id>
+         <id>deployment</id>
          <name>snapshot repository</name>
-         <url>http://13.126.33.165:8081/repository/snapshot/</url>
+         <url>http://13.232.25.198:8081/repository/snapshot/</url>
       </repository>
    </distributionManagement>
 
